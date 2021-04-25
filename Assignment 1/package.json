@@ -1,0 +1,22 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Finding a string to be appended to the end of an input value s\u001b[D\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dhat the hash value is less than the target.",
+  "main": "Assignment 1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharma8602/BlockChain.git"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "Ashutosh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asharma8602/BlockChain/issues"
+  },
+  "homepage": "https://github.com/asharma8602/BlockChain#readme"
+}
